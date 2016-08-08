@@ -1,0 +1,40 @@
+_repo: De-Orbe-Novo-Volume-1--of-2-The-Eight-Decades-of-Peter-Martyr-D-Anghera_12425
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: MacNutt, Francis Augustus
+    alias: MacNutt, Francis A. (Francis Augustus)
+    birthdate: 1863
+    deathdate: 1927
+    gutenberg_agent_id: '4361'
+    url: http://www.gutenberg.org/2009/agents/4361
+creator:
+  author:
+    agent_name: Anghiera, Pietro Martire d'
+    aliases:
+    - Anglería, Pedro Mártir de
+    - Anghera, Pierre Martyr d'
+    - Anglerius, Petrus Martyr
+    - Peter Martyr, of Angleria
+    - Angleria, Petrus Martyr ab
+    birthdate: 1457
+    deathdate: 1526
+    gutenberg_agent_id: '38250'
+    url: http://www.gutenberg.org/2009/agents/38250
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Early accounts to 1600'
+- !lcc 'E011'
+- GITenberg
+title: 'De Orbe Novo, Volume 1 (of 2)
+
+  The Eight Decades of Peter Martyr D''Anghera'
+url: http://www.gutenberg.org/ebooks/12425
